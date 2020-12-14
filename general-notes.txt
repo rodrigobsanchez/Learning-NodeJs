@@ -48,3 +48,12 @@ Understanding the Basics Module *****************************************
 
 1 --> How the Web Works..
 
+HTTP = Hyper Text Tranfer Protocol
+
+HTTPS = Hyper Text Tranfer Protocol Secure (the data is encrypted)
+
+Core Modules:
+    http (Launch a server, send requests) , https (Lauch a SSL server), fs, path, os
+
+
+
