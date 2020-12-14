@@ -1,0 +1,50 @@
+Node JS COURSE!!!
+
+What is Node.js??
+It is a Runtime JavaSript… (proprably same shit as Jquery + ajax).
+
+*** javaspript = language used on a browser and manipulates your DOM documents. Iteraction with teh page after is being loaded.
+
+Node.js is “different version os javascript” it allows you use javaspript at SERVER (back end).
+- Utiliza V8 que seria um engine que “converte” o javaspript para ser rodado no servidor como java… v8 utiliza C++…
+
+
+ 1 -REPL is a way of executing node js
+
+stands for -
+
+Read → input user;
+Eval → Evaluate user input;
+Print → print output
+Loop → wait for new input;
+*** This way is to be executed at System Terminal!!!
+Linux tem que digitar $ node para entrar, e .exit para sair.
+
+
+2- Run nodejs code..
+	execute files..
+
+
+
+var is deprecated… using ‘let’
+
+let → also creates a variable, scope is more limited than ‘var’.
+
+Const → Variable that never changes.
+
+
+
+*** Understanding arrow functions….
+
+
+Understanding the Basics Module *****************************************
+
+ Topics:
+   1- How does Thje Web Work(Refreshner)
+   2- Creating a Node.js Server
+   3- Using Node Core Modules
+   4- Working with Requests & Responses
+   5- Asynchronous Code & The Event Loop
+
+1 --> How the Web Works..
+
